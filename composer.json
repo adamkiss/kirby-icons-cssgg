@@ -7,7 +7,14 @@
     "authors": [
       {
         "name": "Adam Kiss",
-        "email": "iam@adamkiss.com"
+        "email": "iam@adamkiss.com",
+        "homepage": "https://adamkiss.com",
+        "role": "Developer"
+      },
+      {
+        "name": "Astrit Malsia",
+        "homepage": "https://css.gg",
+        "role": "Icon author"
       }
     ],
     "require": {
